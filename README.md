@@ -1,11 +1,9 @@
 # todo_app
+<img src="https://github.com/user-attachments/assets/94de3ca4-9d89-4f49-981e-a69c646b90d8" width="250px" />
 
-A new Flutter project.
+My todo app that i learn from salaIT time (9-10pm)
 
 ## Getting Started
-<img src="https://github.com/user-attachments/assets/8ea72709-cf09-4edc-933f-66c080dc3536/Screenshot_1745212318" width="250px" />
-
-
 
 This project is a starting point for a Flutter application.
 
